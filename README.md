@@ -10,6 +10,8 @@ Install Docker Compose: https://docs.docker.com/compose/install/
 
 ## Initialize and run
 
+Clone this repo, `cd` into directory, then:
+
 ```
 $ docker-compose up -d
 
