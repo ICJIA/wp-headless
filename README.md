@@ -6,7 +6,7 @@ Docker-compose file for local development and testing of the Wordpress REST API.
 
 Install Docker: https://docs.docker.com/install/
 
-Install Docker Compose:
+Install Docker Compose: https://docs.docker.com/compose/install/
 
 ## Initialize and run
 
@@ -16,7 +16,7 @@ $ docker-compose up -d
 $ curl http://localhost:5000/wp-json
 ```
 
-If not already set, set `Permalinks` to `Post name` in admin settings.
+If not already set, set `Permalinks` to `Post name` in WP admin settings.
 
 ## Backup db volume
 
