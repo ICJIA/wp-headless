@@ -14,7 +14,11 @@ Clone this repo, `cd` into directory, then:
 
 ```
 $ docker-compose up -d
+```
 
+## Test installation:
+
+```
 $ curl http://localhost:5000/wp-json
 ```
 
